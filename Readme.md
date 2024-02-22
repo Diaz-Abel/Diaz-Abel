@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diaz-abel" alt="diaz-abel" /></a> </p>- 📫 Cómo contactarme **diazabel743@gmail.com**
+</p>- 📫 Cómo contactarme **diazabel743@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 
