@@ -3,7 +3,7 @@
 
 
 
-</p>- 📫 Cómo contactarme **diazabel743@gmail.com**
+</p><p>- 📫 Cómo contactarme <b>diazabel743@gmail.com</b></p>
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 
