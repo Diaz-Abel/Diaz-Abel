@@ -1,17 +1,67 @@
-<h1 align="center">Hola 👋 , soy Abel Díaz</h1><h3 align="center">Estudiante de Ingeniería en Informática apasionado por la tecnología y la resolución de problemas</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=diaz-abel&label=Profile%20views&color=0e75b6&style=flat" alt="diaz-abel" /> </p>
-
-
-
-
-</p><p>- 📫 Cómo contactarme <b>diazabel743@gmail.com</b></p>
-
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
-
-
-
-<a href="https://linkedin.com/in/abel-diaz-py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abel diaz" height="30" width="40" /></a></p><h3 align="left">Idiomas y herramientas:</h3>
-
-
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<div>
+    <div align="center" style="background-color: #2C2F3F; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <p align="left">
+            <img src="https://komarev.com/ghpvc/?username=Diaz-Abel&label=Profile%20views&color=7A7ADB&style=flat" alt="diaz-abel" />
+        </p>
+        <h1 style="color: #B2B2D0; font-family: 'Roboto', sans-serif; font-size: 32px;">Hello, I'm Abel Díaz <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
+        <h3 align="center" style="color: #B2B2D0; font-family: 'Roboto', sans-serif; font-size: 18px;">I'm a Computer Engineering student with a passion for technology and problem solving</h3>
+    </div>
+    <br />
+    <div align="left" style="background-color: #2C2F3F; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <h2 style="color: #7A7ADB; font-family: 'Roboto', sans-serif; font-size: 24px; margin-top: 10px;">My Skills Include</h2> <!-- Ajuste aquí -->
+        <h4 style="color: #B2B2D0; font-family: 'Roboto', sans-serif; font-size: 20px;">Languages</h4>
+        <span>
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+            <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+            <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        </span>
+        <h4 style="color: #B2B2D0; font-family: 'Roboto', sans-serif; font-size: 20px;">Frameworks</h4>
+        <span>
+            <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+            <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+        </span>
+        <h4 style="color: #B2B2D0; font-family: 'Roboto', sans-serif; font-size: 20px;">Databases</h4>
+        <span>
+            <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        </span>
+        <h4 style="color: #B2B2D0; font-family: 'Roboto', sans-serif; font-size: 20px;">IDE</h4>
+        <span>
+            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+            <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+        </span>
+        <h4 style="color: #B2B2D0; font-family: 'Roboto', sans-serif; font-size: 20px;">Version Control</h4>
+        <span>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+        </span>
+    </div>
+    <br />
+    <div align="left" style="background-color: #2C2F3F; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <h2 style="color: #7A7ADB; font-family: 'Roboto', sans-serif; font-size: 24px; margin-top: 10px;">Connect with me</h2> <!-- Ajuste aquí -->
+        <a target="_blank" href="https://www.linkedin.com/in/abel-diaz-py/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+        <a target="_blank" href="mailto:diazabel743@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+    </div>
+    <br />
+    <div align="left" style="background-color: #2C2F3F; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <h2 style="color: #7A7ADB; font-family: 'Roboto', sans-serif; font-size: 24px; margin-top: 10px;">Contribution Activity</h2> <!-- Ajuste aquí -->
+        <table align="center" style="width: 100%; border-spacing: 10px;">
+            <tr>
+                <td style="width: 50%; text-align: center;">
+                    <img src="https://github-readme-stats.vercel.app/api?username=Diaz-Abel&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+                </td>
+                <td style="width: 50%; text-align: center;">
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diaz-Abel&background=000000&stroke=130F40&ring=7A7ADB&fire=2234AE&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+                </td>
+            </tr>
+        </table>
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaz-Abel&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" />
+        </p>
+    </
